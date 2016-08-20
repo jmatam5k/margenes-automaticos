@@ -1,0 +1,24 @@
+div{
+	border: 15px solid yellow;
+	width: 260px;
+	}
+
+.caja1{
+	
+	text-align: center;
+	padding: 30px;
+	margin-bottom: 20px;
+
+}
+
+
+.caja2{
+	
+	padding: 30px;
+	margin: 0 auto;
+
+
+}
+p{
+	text-align: left;
+}
